@@ -1,0 +1,116 @@
+/* Sfondo */
+body {background-image: url(immagini/background.jpg);
+  background-position: center;
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+
+/* Sezione Login */
+section {
+  background-color: #d7d5d5;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin: 50px auto;
+  max-width: 350px;
+  padding: 30px;
+  text-align: center;
+}
+
+section h1 {
+  color: #333;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+/* Form */
+form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+form label {
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+form label input {
+  background-color: #f2f2f2;
+  border: none;
+  border-radius: 5px;
+  box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.2);
+  color: #333;
+  font-size: 1rem;
+  padding: 10px;
+  font-family: 'Roboto' sans-serif;
+}
+
+form label input:focus {
+  box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.4);
+  outline: none;
+}
+
+/* Bottone di invio */
+form label #submit {
+  background-color:  red;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+  color: #d7d5d5;
+  cursor: pointer;
+  font-size: 1.2rem;
+  padding: 10px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+form label #submit:hover {
+  background-color: crimson;
+}
+
+/* Link di registrazione */
+a {
+  color: blue;
+  display: block;
+  margin-top: 20px;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #23527c;
+}
+span{
+  border-radius: 20px;
+    background-color: red;
+    color:#d7d5d5;
+    padding: 5px;
+}
+
+.erroreInput{
+  border: 2px solid red;
+}
+
+.errore{
+  color:red;
+  text-align: center;
+}
+
+@media(max-width:768px){
+
+  .errore{
+    font-size: 20px;
+  }
+
+  section{
+    padding:30px;
+    border-radius: 40px;
+    font-size: 1em;
+  }
+
+  label{
+    flex-direction: column;
+  }
+}

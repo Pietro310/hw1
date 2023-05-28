@@ -1,0 +1,526 @@
+#contenuto{
+    width: 600px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    outline: none;
+}
+
+
+#ricerca {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    padding: 100px;
+}
+
+  
+  #barra-ricerca {
+    height: 50px;
+    width: 600px;
+    margin-right: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    outline: none;
+  }
+
+  #btn-ricerca {
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+    font-size: 20px;
+  }
+  
+
+  .preferiti{
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.hidden{
+    display:none;
+    border-radius: 10px;
+    color: rgb(34, 34, 34);
+    background-color: #ff9000;
+    padding:10px;
+
+}
+
+.attivo{
+    display:block;
+}
+
+button{
+    background-color: red;
+    color: #dcdcdc;
+    font-family: 'Montserrat' , sans-serif;
+    border: none;
+    padding: 10px;
+}
+
+button:hover{
+    background-color: rgba(255, 0, 0, 0.684);
+    transform: scale(1.07);
+}
+
+
+#elenco_shop div,#in_tendenza div,#oggetti_preferiti div,#risultati div,#offerte div{
+    width: 25%;
+    background-color:rgb(34, 34, 34);
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+    margin:15px;
+    margin-bottom: 50px;
+}
+
+
+#elenco_shop,#in_tendenza,#oggetti_preferiti,#risultati,#offerte{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+#elenco_shop div img,#in_tendenza div img,#oggetti_preferiti div img,#risultati div img{
+    height: 80% ;
+    width:80%;
+}
+
+#offerte div img{
+    padding: 20px;
+    height: 80% ;
+    width:80%;
+}
+
+
+#elenco_shop h1,#in_tendenza h1,#oggetti_preferiti h1,#risultati h1 {
+    font-size: 1.2em;
+    text-align: center;
+}
+ 
+#offerte div a{
+    font-size: 20px;
+    font-family: 'Montserrat' , sans-serif;
+    color: #dcdcdc;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+
+#elenco_shop div div,#in_tendenza div div,#risultati div div, #offerte div div{
+display: flex;
+justify-content: center;
+width: auto;
+}
+
+#in_tendenza div p,#elenco_shop div p,#risultati div p,#offerte div p{
+font-size: 1.4em;
+text-align: center;
+}
+
+#in_tendenza div:hover,#risultati div:hover{
+    transform: scale(1.07);
+}
+
+
+header{
+    background-image: url(immagini/background.jpg);
+    background-position: center;
+    height: 500px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    font-size: 15px;
+    line-height: normal;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+#menu a{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 2em;
+    margin:20px;
+    color:rgb(47, 45, 45);
+    line-height: 3em;
+    cursor: pointer; 
+}
+
+#home:hover{
+    color:red;
+}
+
+#cerca:hover{
+    color:red;
+}
+#shop:hover{
+    color:red;;
+}
+
+#preferiti:hover{
+    color:red;
+}
+
+#logout:hover{
+    color:red;
+}
+
+
+nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    font-size: 10px ;
+}
+  
+
+#intestazione{
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+nav h1{
+    margin-top:140px;
+    color:black;
+    font-size: 65px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+  }
+
+  span{
+    border-radius: 30px;
+    background-color: red;
+    color:#fff;
+    padding: 10px;
+  }
+
+#titolo{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    padding:10px;
+}
+
+#titoloPreferiti{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3em;
+    padding:10px;
+}
+
+#titoloPreferiti h1{
+    text-align: center;
+}
+
+
+
+
+label{
+    padding:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif ;
+}
+
+
+
+section{
+    background-color: rgb(39, 39, 39);
+    background-position: center;
+    height: 100%;
+}
+
+section h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    color:rgb(186, 185, 185);
+}
+
+footer {
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #dcdcdc;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  p{
+    color: red;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  footer div {
+    flex-basis: 50%;
+    margin-bottom: 20px;
+  }
+  
+  footer p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  footer li {
+    margin-bottom: 5px;
+  }
+  
+  footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+body{
+    margin:0px;
+}
+
+
+  
+#comprimi div {
+    width: 22px;
+    height: 2px;
+    background-color: rgb(230, 220, 213);
+    margin: 5px 0;
+}
+
+
+@media (max-width: 1090px) {
+    #elenco_shop div img,#in_tendenza div img,#oggetti_preferiti div img,#risultati div img{
+        height: 160px ;
+        
+    }
+
+    #intestazione{
+        flex-direction: column;
+        align-items: center;
+    }
+    nav h1{
+        margin:0px;
+        font-size: 3em;
+        padding: 120px;
+    }
+}
+
+@media (max-width: 950px) {
+
+    #elenco_shop div img,#in_tendenza div img,#oggetti_preferiti div img,#risultati div img{
+        height: 140px ;
+        
+    }
+    nav h1{
+        font-size: 2.8em;
+        padding: 120px;
+    }
+}
+
+
+
+@media (max-width: 860px) {
+   
+
+    nav h1{
+        font-size: 2.5em;
+        padding: 150px;
+    }
+
+    #menu a {
+        font-size: 15px;
+    }
+
+    #elenco_shop div,#in_tendenza div,#oggetti_preferiti div,#risultati div,#offerte div{
+        width:40%;
+    }
+
+    #elenco_shop div img,#in_tendenza div img,#oggetti_preferiti div img,#risultati div img{
+        
+        height: 180px;
+    }
+    #in_tendenza div p,#elenco_shop div p,#risultati div p,#offerte div p {
+        font-size: 1.3em;
+        margin:10px;
+    }
+    #elenco_shop h1,#in_tendenza h1,#oggetti_preferiti h1,#risultati h1 {
+        font-size: 1.3em;
+        
+    }
+
+   
+    #contenuto{
+        width: 300px;
+
+    }
+
+    #offerte h1{
+        font-size: 100%;
+    }
+}
+
+@media (max-width: 700px) {
+    #elenco_shop div img,#in_tendenza div img,#oggetti_preferiti div img,#risultati div img{
+        
+        height: 160px;
+    }
+
+
+}
+
+@media (max-width: 660px) {
+
+    #menu a{
+        margin:20px;
+        font-size: 1.4em;
+    }
+
+    nav h1{
+        font-size: 2em;
+    }
+    #elenco_shop h1,#in_tendenza h1,#oggetti_preferiti h1,#risultati h1{
+        font-size: 1.1em;
+        
+    }
+
+    header  {
+        height: 320px;
+    }
+    #form{
+        margin:0px;
+        font-size: 1.5em
+    }
+
+    #elenco_shop div img,#in_tendenza div img,#oggetti_preferiti div img,#risultati div img{
+   
+        height: 150px;
+    }
+}
+
+@media (max-width: 530px) {
+
+    #elenco_shop,#in_tendenza,#oggetti_preferiti,#risultati,#offerte{
+        flex-direction: column;
+        
+    }
+
+    #elenco_shop div,#in_tendenza div,#oggetti_preferiti div,#risultati div,#offerte div{
+        width:auto;
+    }
+    #elenco_shop div img,#in_tendenza div img,#oggetti_preferiti div img,#risultati div img{
+    
+        height: auto;
+    }
+
+    nav{
+        padding:10px;
+    }
+    nav h1{
+        padding: 60px;
+        font-size: 1.7em;
+    }
+    header {
+        height: 240px;
+    }
+
+    #menu a {
+        margin: 10px;
+        font-size: 10px;
+
+    }
+
+    
+
+}
+
+
+
+
+@media (max-width: 455px) {
+    
+    
+    
+
+    header {
+        height: 225px;
+    }
+    
+    nav h1{
+        font-size:1.5em;
+    }
+
+    #form{
+        flex-direction: column;
+    }
+    #menu a {
+        margin: 5px;
+
+    }
+
+    #in_tendenza div p,#elenco_shop div p,#risultati div p,#offerte div p {
+        font-size: 1.5em;
+    }
+    #contenuto{
+        width: 120px;
+
+    }
+}
+
+
+
+
+@media (max-width: 390px) {
+
+    nav h1{
+        font-size:1.3em;
+    }
+
+    #menu a{
+        margin:7px;
+        font-size: 8px;
+    }
+
+    nav{
+        padding:0px;
+    }
+
+    header {
+        height: 215px;
+    }
+    
+}
+
+@media (max-width: 295px) {
+
+    nav h1 {
+        font-size: 1.5em;
+    }
+
+    #menu a{
+        
+        font-size: 8px;
+    }
+
+    #in_tendenza div p,#elenco_shop div p,#risultati div p,#offerte div p {
+        font-size: 1.4em;
+    } 
+}

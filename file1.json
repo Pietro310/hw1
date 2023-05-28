@@ -1,0 +1,184 @@
+{ 
+    "results": [ 
+      { 
+        "title": "HUAWEI MateBook D 16", 
+        "image": "immagini/laptop1.jpg", 
+        "name":"Intel® Core™ i7-12700H , 16GB+512GB",
+        "prezzo":"€ 849,99"
+      },
+      { 
+        "title": "HUAWEI MateBook D 15 2022", 
+        "image": "immagini/laptop2.jpg", 
+        "name":"Intel® CoreTM i5-1155G7 , 8GB+512GB ",
+        "prezzo":"€ 649,99"
+      },
+      { 
+        "title": "HUAWEI MateBook 16s", 
+        "image": "immagini/laptop2.jpg", 
+        "name":"Intel® Core™ i9-12900H , 16GB+1TB",
+        "prezzo":"€ 1299,99"
+      },
+      { 
+        "title": "iPhone 14", 
+        "image": "immagini/iphone14.png", 
+        "name":"128GB/512GB/1TB , Color:Bluette/White" ,
+        "prezzo":"€ 1029,99"
+      },
+      { 
+        "title": "iPhone 14 Pro", 
+        "image": "immagini/iphone14pro.png", 
+        "name":"1TB , Color:Violette",
+        "prezzo":"€ 1849,99" 
+      },
+      { 
+        "title": "iPhone 13 Pro", 
+        "image": "immagini/iphone131.png", 
+        "name":"128GB/512GB , Color:Military Green",
+        "prezzo":"€ 1029,99" 
+      },
+      { 
+        "title": "Pc Gaming", 
+        "image": "immagini/ps5.png", 
+        "name":"RYZEN 7 5800X 8 CORE 4,40 IN TURBO BOOST, RTX 3060TI 8GB GDDR6,RAM 16GB 3600MHZ, SSD NVME 500GB",
+        "prezzo":"€ 1049,99" 
+      },
+      { 
+        "title": "Mouse da gaming", 
+        "image": "immagini/ps4.png", 
+        "name":"Gaming Mouse Trust GXT 900 Kudos RGB Pro Gamer PC Laptop Colore Nero",
+        "prezzo":"€ 149,99" 
+      },
+      { 
+        "title": "Minecraft BedRock Ed.", 
+        "image": "immagini/mine.png", 
+        "name":"Dopo l'incredibile successo della versione PS3 Minecraft è finalmente arrivato su PlayStation 4!",
+        "prezzo":"€ 29,99" 
+      },
+      {
+        "title":"iPad Pro",
+        "image":"immagini/ipad9.png",
+        "name":"128GB/256GB , Color:sideral grey/white",
+        "prezzo":"€ 849,99"
+      },
+      {
+        "title":"iPad 10th gen.",
+        "image":"immagini/ipad10blu.png",
+        "name":"32GB/64GB , Color:white",
+        "prezzo":"€ 549,99"
+      },
+      {
+        "title":"iPad Air",
+        "image":"immagini/ipadair.png",
+        "name":"64GB/128GB , Color:Grey",
+        "prezzo":"€ 649,99"
+      },
+      {
+        "title":"MacBook Pro 13'' ",
+        "image":"immagini/macbook.png",
+        "name":"8GB+256GB",
+        "prezzo":"€ 1549,99"
+      },
+      {
+        "title":"iMac 27''",
+        "image":"immagini/macfisso.png",
+        "name":" Quad Core i7-2600 11M , 8GB+1TB ",
+        "prezzo":"€ 2049,99"
+      },
+      {
+        "title":"tv haier",
+        "image":"immagini/tvhaier.png",
+        "name":"Televisore LCD con retroilluminazione LED LCD ",
+        "prezzo":"€ 229,49"
+      },
+      {
+        "title":"tv samsung",
+        "image":"immagini/tvsamsung.png",
+        "name":" TV LED Ultra HD 4K 55'' ",
+        "prezzo":"€ 529,49"
+      },
+      { 
+        "title": "Call Of Duty Modern Warfare", 
+        "image": "immagini/cod.png", 
+        "name":" Call Of Duty Modern Warfare PS4 ",
+        "prezzo":"€ 49,99" 
+      },
+      { 
+        "title": "LEGO Movie 2", 
+        "image": "immagini/lego.png", 
+        "name":"The LEGO Movie 2 PS4",
+        "prezzo":"€ 19,99" 
+      },
+      { 
+        "title": "MotoGP 17", 
+        "image": "immagini/motogp.png", 
+        "name":"MotoGP 17 PS4",
+        "prezzo":"€ 9,99" 
+      },
+      { 
+        "title": "PREDATOR", 
+        "image": "immagini/predator.png", 
+        "name":"PREDATOR: Hunting Grounds",
+        "prezzo":"€ 59,99" 
+      },
+      { 
+        "title": "PS4 Pro", 
+        "image": "immagini/ps4pro.png", 
+        "name":"Play Statio 4 Pro , 1TB",
+        "prezzo":"€ 359,99" 
+      },
+      { 
+        "title": "PS5 ", 
+        "image": "immagini/ps52.png", 
+        "name":"Play Station 5  , 1TB",
+        "prezzo":"€ 659,99" 
+      },
+      { 
+        "title": "Nintendo DSi", 
+        "image": "immagini/nintendo.png", 
+        "name":"Nintendo Dsi Rosso , con pennino incluso",
+        "prezzo":"€ 159,99" 
+      },
+      { 
+        "title": "Nintendo 3DS", 
+        "image": "immagini/nintendo3ds.png", 
+        "name":"Nintendo 3DS Black",
+        "prezzo":"€ 199,99" 
+      },
+      { 
+        "title": "Air Pods 1st gen.", 
+        "image": "immagini/airpods.png", 
+        "name":"Air Pods di prima generazione RICONDIZIONATE",
+        "prezzo":"€ 69,99" 
+      },
+      { 
+        "title": "Air Pods 2th gen.", 
+        "image": "immagini/airpods.png", 
+        "name":"Air Pods di seconda generazione",
+        "prezzo":"€ 119,99" 
+      },
+      { 
+        "title": "AirPods Pro ", 
+        "image": "immagini/airpodspro.png", 
+        "name":"Air Pods Pro di prima generazione",
+        "prezzo":"€ 189,99" 
+      },
+      { 
+        "title": "Apple watch serie 7", 
+        "image": "immagini/watch1.png", 
+        "name":"Apple watch serie 7 , cinturino  nero in gomma , con pellicola inclusa",
+        "prezzo":"€ 549,99" 
+      },
+      { 
+        "title": "Apple watch serie 3", 
+        "image": "immagini/watch2.png", 
+        "name":"Apple watch serie 3 , cinturino  bianco in gomma , con pellicola inclusa",
+        "prezzo":"€ 349,99" 
+      },
+      { 
+        "title": "Apple watch se nike", 
+        "image": "immagini/watch3.png", 
+        "name":"Apple watch se NIKE ED. , cinturino  bianco NIKE, con pellicola inclusa",
+        "prezzo":"€ 349,99" 
+      }
+          ]
+    }

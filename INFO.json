@@ -1,0 +1,184 @@
+{ 
+    "results": [ 
+      { 
+        "title": "HUAWEI MateBook D 16", 
+        "image": "immagini/laptop1.jpg", 
+        "name":"Intel® Core™ i7-12700H , 16GB+512GB, Ampio display da 16, leggero come alcuni modelli da 15,6'' : L'ampio dispaly da 16'' e il corpo in metallo da 1,7 Kg, leggero come alcuni modelli da 15,6'' , ti assicurano un'esperienza lavorativa grazie a una visuale ampia",
+        "prezzo":"€ 849,99"
+      },
+      { 
+        "title": "HUAWEI MateBook D 15 2022", 
+        "image": "immagini/laptop2.jpg", 
+        "name":"Intel® CoreTM i5-1155G7 , 8GB+512GB,Ampio display da 16, leggero come alcuni modelli da 14,6'' : L'ampio dispaly da 16'' e il corpo in metallo da 1,5 Kg, leggero come alcuni modelli da 14,6'' , ti assicurano un'esperienza lavorativa grazie a una visuale ampia",
+        "prezzo":"€ 649,99"
+      },
+      { 
+        "title": "HUAWEI MateBook 16s", 
+        "image": "immagini/laptop2.jpg", 
+        "name":"Intel® Core™ i9-12900H , 16GB+1TB ,Ampio display da 16, leggero come alcuni modelli da 10,6'' : L'ampio dispaly da 16'' e il corpo in metallo da 1,2 Kg, leggero come alcuni modelli da 10,6'' , ti assicurano un'esperienza lavorativa grazie a una visuale ampia",
+        "prezzo":"€ 1299,99"
+      },
+      { 
+        "title": "iPhone 14", 
+        "image": "immagini/iphone14.png", 
+        "name":"128GB/512GB/1TB , Color:Bluette/White , Il telefono ha uno schermo OLED Super Retina XDR da 6,1 pollici per l'iPhone 14 e 6,7 pollici per l'iPhone 14 Plus, con un formato di 19,5:9. È dotato di un vetro 'Ceramic Shield', un rivestimento di cristalli di ceramica introdotto per la prima volta sulla linea iPhone 12" ,
+        "prezzo":"€ 1029,99"
+      },
+      { 
+        "title": "iPhone 14 Pro", 
+        "image": "immagini/iphone14pro.png", 
+        "name":"1TB , Color:Violette , Il dispositivo ha il supporto dual SIM e supporta le reti mobili sino a quelle 5G , mentre la Wi-Fi è di tipo a/b/g/n/ac/6 e il Bluetooth è 5.3. Non manca il GPS e neanche il chip NFC. Manca invece la radio FM e la porta ad infrarossi. La batteria non removibile di questo dispositivo è da 3125 mAh.",
+        "prezzo":"€ 1849,99" 
+      },
+      { 
+        "title": "iPhone 13 Pro", 
+        "image": "immagini/iphone131.png", 
+        "name":"128GB/512GB , Color:Military Green , iPhone 13 Pro ha una memoria di 6GB RAM + 128GB, dispone di uno schermo con notch da 6.1 pollici con una risoluzione di 1170 x 2532 punti e monta una fotocamera principale quadrupla con una risoluzione di 12+12+12 MP e flash e una fotocamera anteriore da 12 MP",
+        "prezzo":"€ 1029,99" 
+      },
+      { 
+        "title": "Pc Gaming", 
+        "image": "immagini/ps5.png", 
+        "name":"RYZEN 7 5800X 8 CORE 4,40 IN TURBO BOOST, RTX 3060TI 8GB GDDR6,RAM 16GB 3600MHZ, SSD NVME 500GB ,  Case: Il case SHAKE EVO è un Gaming Middle Tower con frontale trasparente in acrilico.Sul frontale troviamo bene 3 ventole da 12cm della serie ARYA2.0 con illuminazione addressable ARGB accompagnate da una ter­za posteriore, tutte collegate al comodo con­troller interno in grado di gestire fino a 6 ven­tole/strisce LED ARGB. 200 mm x 440 mm x 400 mm",
+        "prezzo":"€ 1049,99" 
+      },
+      { 
+        "title": "Mouse da gaming", 
+        "image": "immagini/ps4.png", 
+        "name":"Gaming Mouse Trust GXT 900 Kudos RGB Pro Gamer PC Laptop Colore Nero , Un mouse per il gaming deve avere alcune caratteristiche particolari, come un elevato valore di DPI, una serie di tasti macro personalizzabili, alcuni tasti azionabili in varie modalità (la cosidetta modalità multi-key) e soprattutto un'elevatissima precisione (in gergo tecnico polling rate)",
+        "prezzo":"€ 149,99" 
+      },
+      { 
+        "title": "Minecraft BedRock Ed.", 
+        "image": "immagini/mine.png", 
+        "name":"Dopo l'incredibile successo della versione PS3 Minecraft è finalmente arrivato su PlayStation 4!",
+        "prezzo":"€ 29,99" 
+      },
+      {
+        "title":"iPad Pro",
+        "image":"immagini/ipad9.png",
+        "name":"128GB/256GB , Color:sideral grey/white , Brillante display Liquid Retina XDR da 12,9'' con ProMotion, True Tone e ampia gamma cromatica P3 , Chip M2 con CPU 8-core e GPU 10-core , Fotocamere posteriori da 12MP (grandangolo) e 10MP (ultra grandangolo), e scanner LiDAR per la realtà aumentata , Fotocamera frontale da 12MP con ultra grandangolo e Inquadratura automatica, Face ID per l’autenticazione sicura e Apple Pay",
+        "prezzo":"€ 849,99"
+      },
+      {
+        "title":"iPad 10th gen.",
+        "image":"immagini/ipad10blu.png",
+        "name":"32GB/64GB , Color:white , Display: Dispone di un display Retina da 10,2 pollici con una risoluzione di 2160 x 1620 pixel. Il display è luminoso e nitido, offrendo una buona esperienza visiva per la navigazione, la visualizzazione di contenuti multimediali e l'utilizzo di app , Prestazioni: È alimentato dal chip A13 Bionic di Apple, lo stesso processore utilizzato nell'iPhone 11. Questo offre prestazioni fluide e reattive per le attività quotidiane",
+        "prezzo":"€ 549,99"
+      },
+      {
+        "title":"iPad Air",
+        "image":"immagini/ipadair.png",
+        "name":"64GB/128GB , Color:Grey , L'iPad Air presenta un design sottile e leggero con bordi arrotondati e una costruzione in alluminio di alta qualità. Ha uno schermo ampio e luminoso che occupa gran parte della parte anteriore del dispositivo, offrendo un'esperienza di visualizzazione coinvolgente,Dispone di un display Retina da 10,9 pollici (11 pollici sulla versione più recente) con una risoluzione di 2360 x 1640 pixel.  ",
+        "prezzo":"€ 649,99"
+      },
+      {
+        "title":"MacBook Pro 13'' ",
+        "image":"immagini/macbook.png",
+        "name":"8GB+256GB , Il MacBook 13 presenta un design elegante e sottile, con una scocca in alluminio resistente e finiture di alta qualità. È disponibile in diversi colori, come argento, grigio siderale e oro , Il MacBook 13 è dotato di un display Retina da 13,3 pollici con una risoluzione elevata per immagini nitide e dettagliate. Il display offre una gamma di colori accurata e una luminosità adeguata per un'esperienza visiva ottimale.",
+        "prezzo":"€ 1549,99"
+      },
+      {
+        "title":"iMac 27''",
+        "image":"immagini/macfisso.png",
+        "name":" Quad Core i7-2600 11M , 8GB+1TB ,  L'iMac presenta un design sottile e pulito, con un display integrato e una scocca in alluminio o vetro di alta qualità. È disponibile in diverse dimensioni, tra cui 21,5 pollici e 27 pollici, offrendo un'ampia area di visualizzazione ,  L'iMac è dotato di un display Retina ad alta risoluzione, che offre immagini e testo nitidi e dettagliati. Il display Retina supporta una vasta gamma di colori, garantendo una rappresentazione precisa delle immagini e una visione coinvolgente.",
+        "prezzo":"€ 2049,99"
+      },
+      {
+        "title":"tv haier",
+        "image":"immagini/tvhaier.png",
+        "name":"Televisore LCD con retroilluminazione LED LCD ,  I televisori Haier presentano un design moderno e minimalista, con cornici sottili e un aspetto elegante. La scelta dei materiali e delle finiture può variare a seconda del modello,  Gli schermi dei televisori Haier sono disponibili in diverse dimensioni, che vanno da modelli più piccoli, come 32 pollici, a modelli più grandi, come 65 pollici o oltre. La risoluzione può variare da Full HD (1920x1080 pixel) a Ultra HD o 4K (3840x2160 pixel), offrendo immagini dettagliate e di qualità",
+        "prezzo":"€ 229,49"
+      },
+      {
+        "title":"tv samsung",
+        "image":"immagini/tvsamsung.png",
+        "name":" TV LED Ultra HD 4K 55'',  I televisori Samsung offrono una qualità dell'immagine eccezionale grazie alle tecnologie avanzate come i pannelli QLED (Quantum-dot LED) o MicroLED. Questi pannelli offrono una vasta gamma di colori, un contrasto elevato e una luminosità intensa, che si traducono in immagini nitide e realistiche , Molti televisori Samsung sono dotati di funzionalità Smart TV, che consentono di accedere a una vasta gamma di contenuti online. È possibile collegare il televisore a Internet e utilizzare app come Netflix, YouTube, Amazon Prime Video e molte altre. ",
+        "prezzo":"€ 529,49"
+      },
+      { 
+        "title": "Call Of Duty Modern Warfare (GIOCO FISICO)", 
+        "image": "immagini/cod.png", 
+        "name":" Call Of Duty Modern Warfare PS4 ,  È l'ultimo capitolo della serie Call of Duty ed è stato rilasciato nel 2019. Il gioco offre un'esperienza di combattimento realistica e intensa, ambientata in un contesto moderno e realistico. La trama del gioco si sviluppa attraverso una campagna single-player coinvolgente, che segue le vicende di personaggi sia militari che civili, intrappolati in un conflitto globale.",
+        "prezzo":"€ 49,99" 
+      },
+      { 
+        "title": "LEGO Movie 2 (GIOCO FISICO)", 
+        "image": "immagini/lego.png", 
+        "name":"The LEGO Movie 2 PS4 , è un film d'animazione del 2019, diretto da Mike Mitchell. È il sequel del popolare film The LEGO Movie uscito nel 2014. Il film combina l'animazione computerizzata con l'utilizzo dei mattoncini LEGO per creare un mondo colorato e divertente. La trama del film si svolge cinque anni dopo gli eventi del primo film. Gli abitanti di Bricksburg, una volta una città felice e vivace, sono ora minacciati dall'invasione dei LEGO DUPLO, alieni provenienti dallo spazio. La città è diventata un deserto post-apocalittico chiamato Apocalypseburg.",
+        "prezzo":"€ 19,99" 
+      },
+      { 
+        "title": "MotoGP 17 (GIOCO FISICO)", 
+        "image": "immagini/motogp.png", 
+        "name":"MotoGP 17 PS4 ,  è un videogioco di corse motociclistiche sviluppato da Milestone S.r.l. ed è stato pubblicato nel 2017 per la console PlayStation 4, come parte della serie ufficiale MotoGP. Il gioco offre un'esperienza realistica delle gare di moto, con licenze ufficiali del campionato MotoGP, consentendo ai giocatori di vivere l'emozione delle corse su due ruote. ",
+        "prezzo":"€ 9,99" 
+      },
+      { 
+        "title": "PREDATOR (GIOCO FISICO)", 
+        "image": "immagini/predator.png", 
+        "name":"PREDATOR: Hunting Grounds , è un videogioco d'azione asimmetrico sviluppato da IllFonic e pubblicato da Sony Interactive Entertainment. È stato rilasciato nel 2020 per la console PlayStation 4. l gioco si basa sull'universo del famoso franchise cinematografico Predator. In Predator: Hunting Grounds, i giocatori possono assumere il ruolo di membri di un'élite di soldati umani o del Predatore stesso. Il gioco è principalmente incentrato sul multiplayer online, in cui una squadra di soldati umani deve affrontare un singolo giocatore che controlla il Predatore.",
+        "prezzo":"€ 59,99" 
+      },
+      { 
+        "title": "PS4 Pro", 
+        "image": "immagini/ps4pro.png", 
+        "name":"Play Statio 4 Pro , 1TB , La console PlayStation 4 (PS4) è una piattaforma di gioco sviluppata da Sony Interactive Entertainment. È stata lanciata nel novembre 2013 ed è una delle console più popolari e ampiamente utilizzate nel settore dei videogiochi.  La PS4 è dotata di un processore a 8 core e di una potente unità di elaborazione grafica (GPU), che consente di offrire grafica di alta qualità e prestazioni fluide nei giochi.",
+        "prezzo":"€ 359,99" 
+      },
+      { 
+        "title": "PS5 ", 
+        "image": "immagini/ps52.png", 
+        "name":"Play Station 5  , 1TB , La console PlayStation 5 (PS5) è la console di nuova generazione sviluppata da Sony Interactive Entertainment. È stata lanciata nel novembre 2020 ed è il successore della PlayStation 4. La PS5 rappresenta un significativo avanzamento tecnologico rispetto alla sua predecessora, offrendo miglioramenti in termini di potenza, grafica, velocità e funzionalità.",
+        "prezzo":"€ 659,99" 
+      },
+      { 
+        "title": "Nintendo DSi", 
+        "image": "immagini/nintendo.png", 
+        "name":"Nintendo Dsi Rosso , con pennino incluso , Il Nintendo DSi è una console portatile di gioco sviluppata da Nintendo. È stata rilasciata nel 2008 come successore del Nintendo DS e presenta alcune migliorie e nuove funzionalità rispetto al suo predecessore. Il Nintendo DSi presenta un design più sottile e leggero rispetto al Nintendo DS originale. Ha due schermi, uno inferiore sensibile al tocco e uno superiore per visualizzare il gioco e le informazioni. Il display superiore ha una dimensione di 3,25 pollici, mentre quello inferiore misura 3,5 pollici.",
+        "prezzo":"€ 159,99" 
+      },
+      { 
+        "title": "Nintendo 3DS", 
+        "image": "immagini/nintendo3ds.png", 
+        "name":"Nintendo 3DS Black , Il Nintendo 3DS è una console portatile di gioco sviluppata da Nintendo. È stata rilasciata nel 2011 come successore del Nintendo DSi e presenta diverse nuove caratteristiche, tra cui la possibilità di visualizzare grafica in 3D senza occhiali speciali. Una delle caratteristiche distintive del Nintendo 3DS è la capacità di visualizzare grafica in 3D senza la necessità di occhiali speciali. Il display superiore della console supporta l'effetto 3D, consentendo ai giocatori di godere di immagini tridimensionali durante il gioco.",
+        "prezzo":"€ 199,99" 
+      },
+      { 
+        "title": "Air Pods 1st gen.", 
+        "image": "immagini/airpods.png", 
+        "name":"Air Pods di prima generazione RICONDIZIONATE , Gli AirPods 1 sono auricolari wireless prodotti da Apple. Sono stati lanciati sul mercato nel dicembre 2016 come la prima generazione di auricolari della linea AirPods. Gli AirPods 1 sono completamente senza fili e sono progettati per essere comodi e facili da utilizzare. Ogni auricolare è indipendente e si inserisce nell'orecchio, senza la necessità di cavi o fili che li collegano.",
+        "prezzo":"€ 69,99" 
+      },
+      { 
+        "title": "Air Pods 2th gen.", 
+        "image": "immagini/airpods.png", 
+        "name":"Air Pods di seconda generazione, Gli AirPods 2 sono auricolari wireless prodotti da Apple e rappresentano la seconda generazione della linea AirPods. Sono stati lanciati sul mercato nell'aprile 2019, offrendo miglioramenti rispetto alla versione precedente. Gli AirPods 2 si collegano al tuo dispositivo tramite la tecnologia Bluetooth, consentendo di utilizzarli con iPhone, iPad, Apple Watch, Mac e altri dispositivi compatibili. La connessione wireless offre libertà di movimento e un'esperienza senza intoppi durante l'ascolto della musica o la ricezione di chiamate.",
+        "prezzo":"€ 119,99" 
+      },
+      { 
+        "title": "AirPods Pro ", 
+        "image": "immagini/airpodspro.png", 
+        "name":"Air Pods Pro di prima generazione , Gli AirPods Pro sono auricolari wireless con cancellazione attiva del rumore prodotti da Apple. Rilasciati sul mercato nell'ottobre 2019, rappresentano una versione premium della linea AirPods, offrendo un'esperienza audio immersiva e funzionalità avanzate. Gli AirPods Pro presentano un design in-ear con punte in silicone morbido che si adattano comodamente all'orecchio. Questo design fornisce una migliore tenuta e un isolamento del rumore ambiente, creando una migliore esperienza audio.",
+        "prezzo":"€ 189,99" 
+      },
+      { 
+        "title": "Apple watch serie 7", 
+        "image": "immagini/watch1.png", 
+        "name":"Apple watch serie 7 , cinturino  nero in gomma , con pellicola inclusa , Questo nuovo sistema operativo include nuovi tipi di allenamento, l'app Mindfulness, funzioni di accessibilità, algoritmi aggiornati di rilevamento delle cadute per supportare le cadute durante gli allenamenti e altro ancora. Apple non ha approfondito il processore, ma è un nuovo SiP S7.  L'Apple Watch Serie 7 offre una durata della batteria tipica di circa 18 ore con un uso normale, che può variare in base all'utilizzo e alle impostazioni dell'orologio.",
+        "prezzo":"€ 549,99" 
+      },
+      { 
+        "title": "Apple watch serie 3", 
+        "image": "immagini/watch2.png", 
+        "name":"Apple watch serie 3 , cinturino  bianco in gomma , con pellicola inclusa , L'Apple Watch Serie 3 è un smartwatch prodotto da Apple e fa parte della linea di orologi intelligenti Apple Watch. È stato lanciato sul mercato nell'autunno del 2017 ed è ancora disponibile come opzione di acquisto più economica rispetto ai modelli successivi. L'Apple Watch Serie 3 offre una durata della batteria tipica di circa 18 ore con un uso normale, che può variare in base all'utilizzo e alle impostazioni dell'orologio.",
+        "prezzo":"€ 349,99" 
+      },
+      { 
+        "title": "Apple watch se nike", 
+        "image": "immagini/watch3.png", 
+        "name":"Apple watch se NIKE ED. , cinturino  bianco NIKE, con pellicola inclusa , L'Apple Watch SE è un smartwatch prodotto da Apple e fa parte della linea di orologi intelligenti Apple Watch. È stato lanciato sul mercato nel settembre 2020 come un'opzione di fascia media tra l'Apple Watch Serie 3 e l'Apple Watch Serie 6. L'Apple Watch SE offre una durata della batteria tipica di circa 18 ore con un uso normale, che può variare in base all'utilizzo e alle impostazioni dell'orologio.",
+        "prezzo":"€ 349,99" 
+      }
+          ]
+    }
